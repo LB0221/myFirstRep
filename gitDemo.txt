@@ -13,3 +13,5 @@ Git tracks changes of files.
 文件 编辑 搜索 视图 编码
 语言 设置 工具 宏
 Creating a new branch is quick.
+文件 编辑 搜索 视图 编码
+语言 设置 工具 宏
