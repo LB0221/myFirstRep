@@ -4,3 +4,5 @@ Git is a distributed version control system.
 Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+文件 编辑 搜索 视图 编码
+语言 设置 工具 宏
